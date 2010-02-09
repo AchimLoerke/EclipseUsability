@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contexts>
+   <context id="newMessageDialog">
+      <description>Create a new Message</description>
+      <topic href="html/dialogs/newMessageDialog.html" label="Create a new Message"/>
+   </context>
+   <context id="newMessageDialog_recipients">
+      <description>About the Recipients field:</description>
+      <topic href="html/dialogs/newMessageDialog.html#recipients" label="What are recipients?"/>
+      <topic href="html/dialogs/newMessageDialog.html" label="Create a new message"/>
+   </context>
+   <context id="newMessageDialog_subject">
+      <description>About the Subject field:</description>
+      <topic href="html/dialogs/newMessageDialog.html#subject" label="What is a subject?"/>
+      <topic href="html/dialogs/newMessageDialog.html" label="Create a new message"/>
+   </context>
+   <context id="newMessageDialog_text">
+      <description>About the Text field</description>
+      <topic href="html/dialogs/newMessageDialog.html#text" label="How do I enter text?"/>
+      <topic href="html/dialogs/newMessageDialog.html" label="Create a new message"/>
+   </context>
+</contexts>

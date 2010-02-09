@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<introContent>
+	<extensionContent id="combredexswexamplesmailbasewelcome-introExtension"
+		style="css/sample.css" name="Sample Extension" path="overview/@">
+		<group style-id="content-group"
+			id="combredexswexamplesmailbasewelcome-introLink-group">
+			<link label="Mail-Überblick" url="http://www.bredex.de/"
+				id="combredexswexamplesmailbasewelcome-introLink" style-id="content-link">
+				<text>Die RCP-Mail-Anwendung ist ...
+				</text>
+			</link>
+		</group>
+	</extensionContent>
+</introContent>

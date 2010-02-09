@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.cheatsheets.cheatSheetContent">
+      <category
+            name="RCP Mail"
+            id="base_cheatsheet.category1151466294">
+      </category>
+      <cheatsheet
+            name="RCP Mail Einführung"
+            category="base_cheatsheet.category1151466294"
+            contentFile="$nl$/MailRCPIntro.xml"
+            composite="false"
+            id="base_cheatsheet.cheatsheet327409891">
+         <description>
+            RCP Mail Tutorial
+         </description>
+      </cheatsheet>
+      <cheatsheet
+            category="base_cheatsheet.category1151466294"
+            composite="false"
+            contentFile="$nl$/MailRCPExec.xml"
+            id="base_cheatsheet-commands.cheatsheet1213885597"
+            name="Beenden der Anwendung">
+      </cheatsheet>
+   </extension>
+<extension point="org.eclipse.ui.actionSets">
+  <actionSet
+    label="Cheat Sheets"
+    visible="true"
+    id="org.eclipse.ui.cheatsheets.actionSet">
+    <action
+      label="Cheat Sheets..."
+      class="org.eclipse.ui.cheatsheets.CheatSheetExtensionFactory:helpMenuAction"
+      menubarPath="help/group.tutorials"
+      id="org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction" />
+  </actionSet>
+</extension>
+
+</plugin>

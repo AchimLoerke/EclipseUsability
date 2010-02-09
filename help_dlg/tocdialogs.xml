@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Useful Dialogs" link_to="toc.xml#dialogs">
+   <topic href="html/dialogs/messageDialogs.html" label="Message Dialogs">
+      <topic href="html/dialogs/newMessageDialog.html" label="New Message Dialog">
+      </topic>
+   </topic>
+   <topic href="html/dialogs/systemDialogs.html" label="System Dialogs">
+   </topic>
+</toc>

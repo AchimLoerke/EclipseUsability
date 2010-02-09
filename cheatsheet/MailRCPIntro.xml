@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheatsheet
+      title="RCP Mail Einführung">
+   <intro>
+      <description>
+         <b>Die RCP-Mail-Anwendung erlaubt keine besonders spannenden Aktionen.</b>
+      </description>
+   </intro>
+   <item
+         title="Dialog öffnen">
+      <description>
+         <b>Klicken Sie auf den Briefumschlag, um einen Beispieldialog zu öffnen.</b>
+      </description>
+   </item>
+</cheatsheet>

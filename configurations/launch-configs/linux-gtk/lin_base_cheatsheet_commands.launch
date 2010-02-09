@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="org.eclipse.pde.ui.RuntimeWorkbench">
+<booleanAttribute key="append.args" value="true"/>
+<booleanAttribute key="askclear" value="false"/>
+<booleanAttribute key="automaticAdd" value="false"/>
+<booleanAttribute key="automaticValidate" value="false"/>
+<stringAttribute key="bad_container_name" value="\configurations\launch-configs\win32-win3"/>
+<stringAttribute key="bootstrap" value=""/>
+<stringAttribute key="checked" value="[NONE]"/>
+<booleanAttribute key="clearConfig" value="false"/>
+<booleanAttribute key="clearws" value="true"/>
+<booleanAttribute key="clearwslog" value="false"/>
+<stringAttribute key="configLocation" value="${workspace_loc}/.metadata/.plugins/org.eclipse.pde.core/win_base_cheatsheet_commands (1)"/>
+<booleanAttribute key="default" value="false"/>
+<booleanAttribute key="includeOptional" value="true"/>
+<stringAttribute key="location" value="${workspace_loc}/../runtime-base"/>
+<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-os ${target.os} -ws ${target.ws} -arch ${target.arch} -nl ${target.nl} -consolelog -debug"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.pde.ui.workbenchClasspathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dosgi.requiredJavaVersion=1.5 -XX:MaxPermSize=256m -Xms40m -Xmx512m"/>
+<booleanAttribute key="pde.generated.config" value="false"/>
+<stringAttribute key="pde.version" value="3.3"/>
+<stringAttribute key="product" value="com.bredexsw.examples.mailbase.product"/>
+<stringAttribute key="selected_target_plugins" value="org.eclipse.jface,org.mortbay.jetty,com.ibm.icu,org.eclipse.ui.workbench,org.eclipse.core.jobs,org.eclipse.ui,org.eclipse.help,org.eclipse.equinox.app,org.eclipse.help.base,org.apache.lucene.analysis,org.eclipse.equinox.common,org.eclipse.equinox.registry,org.apache.lucene,org.eclipse.help.ui,org.eclipse.ui.cheatsheets,org.eclipse.core.runtime.compatibility.registry,org.eclipse.ui.intro,org.eclipse.equinox.preferences,org.eclipse.ant.core,org.eclipse.equinox.http.jetty,org.eclipse.core.expressions,org.apache.commons.logging,org.eclipse.core.runtime.compatibility.auth,org.eclipse.core.commands,org.eclipse.core.contenttype,org.eclipse.swt,org.eclipse.ui.intro.universal,javax.servlet,org.eclipse.osgi.services,org.eclipse.ui.forms,org.eclipse.core.runtime,org.eclipse.jface.databinding,org.eclipse.swt.gtk.linux.x86,org.eclipse.core.databinding,org.eclipse.osgi,org.eclipse.equinox.http.servlet,org.eclipse.core.variables"/>
+<stringAttribute key="selected_workspace_plugins" value="com.bredexsw.examples.mailbase*3.0.0.qualifier,com.bredexsw.examples.mailbase.welcome,com.bredexsw.examples.mailbase.cheatsheets*2.0.0.qualifier"/>
+<booleanAttribute key="show_selected_only" value="false"/>
+<booleanAttribute key="tracing" value="false"/>
+<booleanAttribute key="useDefaultConfig" value="true"/>
+<booleanAttribute key="useDefaultConfigArea" value="true"/>
+<booleanAttribute key="useProduct" value="true"/>
+<booleanAttribute key="usefeatures" value="false"/>
+</launchConfiguration>

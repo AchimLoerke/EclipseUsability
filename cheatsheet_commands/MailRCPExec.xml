@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheatsheet
+      title="Beenden der Anwendung">
+   <intro>
+      <description>
+         <b>Wie beende ich das Elend?</b>
+      </description>
+   </intro>
+   <item
+         title="Beenden Sie die Anwendung!">
+      <description>
+         <b>Beenden Sie die Anwendung durch den Eintrag im File- oder Anwendungs-Menü</b>
+      </description>
+      <command
+            required="false"
+            serialization="org.eclipse.ui.file.exit"/>
+   </item>
+</cheatsheet>

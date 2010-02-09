@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Base Welcome Pages
+Bundle-SymbolicName: com.bredexsw.examples.mailbase.welcome;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: BREDEX GmbH
+Require-Bundle: org.eclipse.ui.intro,
+ org.eclipse.ui.intro.universal,
+ org.eclipse.ui
