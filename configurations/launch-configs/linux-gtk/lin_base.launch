@@ -2,7 +2,7 @@
 <launchConfiguration type="org.eclipse.pde.ui.RuntimeWorkbench">
 <booleanAttribute key="append.args" value="true"/>
 <booleanAttribute key="askclear" value="true"/>
-<booleanAttribute key="automaticAdd" value="true"/>
+<booleanAttribute key="automaticAdd" value="false"/>
 <booleanAttribute key="automaticValidate" value="false"/>
 <stringAttribute key="bootstrap" value=""/>
 <stringAttribute key="checked" value="[NONE]"/>
@@ -11,16 +11,16 @@
 <booleanAttribute key="clearwslog" value="false"/>
 <stringAttribute key="configLocation" value="${workspace_loc}/.metadata/.plugins/org.eclipse.pde.core/lin_base"/>
 <booleanAttribute key="default" value="false"/>
-<stringAttribute key="deselected_workspace_plugins" value="com.bredexsw.examples.mailbase*3.0.0.qualifier,com.bredexsw.examples.mailbase.welcome,com.bredexsw.examples.mailbase.cheatsheets*1.0.0.qualifier,com.bredexsw.examples.mailbase*2.0.0.qualifier,com.bredexsw.examples.mailbase.cheatsheets*2.0.0.qualifier"/>
 <booleanAttribute key="includeOptional" value="true"/>
 <stringAttribute key="location" value="${workspace_loc}/../runtime-base"/>
-<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-os ${target.os} -ws ${target.ws} -arch ${target.arch} -nl ${target.nl}"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.pde.ui.workbenchClasspathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dosgi.requiredJavaVersion=1.5 -XX:MaxPermSize=256m -Xms40m -Xmx512m"/>
 <stringAttribute key="pde.version" value="3.3"/>
 <stringAttribute key="product" value="base.product"/>
-<stringAttribute key="selected_target_plugins" value="org.eclipse.jface,com.ibm.icu,org.eclipse.ui.workbench,org.eclipse.core.jobs,org.eclipse.ui,org.eclipse.help,org.eclipse.equinox.app,org.eclipse.equinox.common,org.eclipse.equinox.registry,org.eclipse.core.runtime.compatibility.registry,org.eclipse.equinox.preferences,org.eclipse.core.expressions,org.eclipse.core.runtime.compatibility.auth,org.eclipse.core.commands,org.eclipse.core.contenttype,org.eclipse.swt,javax.servlet,org.eclipse.osgi.services,org.eclipse.core.runtime,org.eclipse.jface.databinding,org.eclipse.swt.gtk.linux.x86,org.eclipse.core.databinding,org.eclipse.osgi"/>
+<stringAttribute key="selected_target_plugins" value="org.eclipse.core.databinding@default:default,org.eclipse.help@default:default,org.eclipse.persistence.jpa.equinox.weaving@default:false,org.eclipse.ui.workbench@default:default,org.eclipse.core.commands@default:default,org.eclipse.core.runtime.compatibility.auth@default:default,org.eclipse.core.expressions@default:default,org.eclipse.core.runtime@default:true,org.eclipse.ui@default:default,org.eclipse.jface.databinding@default:default,org.eclipse.equinox.app@default:default,org.eclipse.core.contenttype@default:default,org.eclipse.jface@default:default,org.eclipse.swt@default:default,org.eclipse.core.databinding.property@default:default,org.eclipse.swt.gtk.linux.x86@default:false,org.eclipse.core.jobs@default:default,org.eclipse.equinox.common@2:true,javax.servlet@default:default,org.eclipse.core.databinding.observable@default:default,org.eclipse.osgi.services@default:default,org.eclipse.equinox.preferences@default:default,com.ibm.icu@default:default,javax.transaction@default:false,org.eclipse.equinox.registry@default:default,org.eclipse.core.runtime.compatibility.registry@default:false,org.eclipse.osgi@-1:true"/>
+<stringAttribute key="selected_workspace_plugins" value="base@default:default"/>
 <booleanAttribute key="show_selected_only" value="false"/>
 <stringAttribute key="templateConfig" value="${target_home}\configuration\config.ini"/>
 <booleanAttribute key="tracing" value="false"/>
